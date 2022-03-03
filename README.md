@@ -1,16 +1,18 @@
-# muestrario_botones
+# __MUESTRARIO BOTONES__
 
-A new Flutter project.
+Un proyecto de Flutter.
 
-## Getting Started
+Elaborado por: @obed-peralta
 
-This project is a starting point for a Flutter application.
+[![GitHub license](https://img.shields.io/github/license/obed-peralta/MuestrarioBotonesFlutter?style=plastic)](https://github.com/obed-peralta/MuestrarioBotonesFlutter)
+[![GitHub issues](https://img.shields.io/github/issues/obed-peralta/MuestrarioBotonesFlutter)](https://github.com/obed-peralta/MuestrarioBotonesFlutter/issues)
 
-A few resources to get you started if this is your first Flutter project:
+Este proyecto muestra con claridad, los widgets de botones que pueden implementarse en una aplicación de flutter.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+He incluído los botones **deprecados** a partir de la versión 1.26 de Flutter.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aquí una vista previa:
+
+![Captura de Pantalla 1](docs/screeshots/ss1.png)
+
+![Captura de Pantalla 1](docs/screeshots/ss2.png)
