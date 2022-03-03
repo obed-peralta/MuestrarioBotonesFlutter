@@ -13,6 +13,6 @@ He incluído los botones **deprecados** a partir de la versión 1.26 de Flutter.
 
 Aquí una vista previa:
 
-![Captura de Pantalla 1](docs/screeshots/ss1.png)
+![Captura de Pantalla 1](docs/screenshots/ss1.png)
 
-![Captura de Pantalla 1](docs/screeshots/ss2.png)
+![Captura de Pantalla 1](docs/screenshots/ss2.png)
